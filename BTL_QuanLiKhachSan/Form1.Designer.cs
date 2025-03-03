@@ -83,6 +83,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::BTL_QuanLiKhachSan.Properties.Resources.icon_dichvu;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.checkedListBox1);
             this.Controls.Add(this.comboBox2);

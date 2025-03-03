@@ -38,7 +38,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(596, 251);
             this.label1.TabIndex = 4;
-            this.label1.Text = "Doanh Thu 2324";
+            this.label1.Text = "Doanh Thu tfghbtfhrh";
             // 
             // User_DoanhThu
             // 
