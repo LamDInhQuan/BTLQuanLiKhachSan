@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< Updated upstream
   "WorkspaceRootPath": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\MoHinh3Lop\\clone4\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\",
   "Documents": [
     {
@@ -33,6 +34,25 @@
     {
       "AbsoluteMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\MoHinh3Lop\\clone4\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\usercontrolform\\user_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|solutionrelative:usercontrolform\\user_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+=======
+  "WorkspaceRootPath": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\MoHinh3Lop\\clone6\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|d:\\h\u1ECDc k\u00EC 2 n\u0103m 3\\mohinh3lop\\clone6\\btlquanlikhachsan\\btl_quanlikhachsan\\usercontrolform\\user_dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|solutionrelative:usercontrolform\\user_dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|d:\\h\u1ECDc k\u00EC 2 n\u0103m 3\\mohinh3lop\\clone6\\btlquanlikhachsan\\btl_quanlikhachsan\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|d:\\h\u1ECDc k\u00EC 2 n\u0103m 3\\mohinh3lop\\clone6\\btlquanlikhachsan\\btl_quanlikhachsan\\usercontrolform\\user_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|solutionrelative:usercontrolform\\user_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|d:\\h\u1ECDc k\u00EC 2 n\u0103m 3\\mohinh3lop\\clone6\\btlquanlikhachsan\\btl_quanlikhachsan\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 5,
+=======
+          "SelectedChildIndex": 3,
+>>>>>>> Stashed changes
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,6 +78,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 4,
               "Title": "User_HoaDon.cs [Design]",
               "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\MoHinh3Lop\\clone4\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_HoaDon.cs",
@@ -84,10 +109,22 @@
               "RelativeToolTip": "..\\..\\..\\clone2\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\FormMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T12:01:25.052Z"
+=======
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\MoHinh3Lop\\clone6\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\MoHinh3Lop\\clone6\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:20:52.181Z",
+              "EditorCaption": " [Design]"
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< Updated upstream
               "Title": "User_DoanhThu.cs [Design]",
               "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\MoHinh3Lop\\clone4\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_DoanhThu.cs",
               "RelativeDocumentMoniker": "UserControlForm\\User_DoanhThu.cs",
@@ -95,11 +132,45 @@
               "RelativeToolTip": "UserControlForm\\User_DoanhThu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T12:02:28.005Z",
+=======
+              "Title": "User_DichVu.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\MoHinh3Lop\\clone6\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_DichVu.cs",
+              "RelativeDocumentMoniker": "UserControlForm\\User_DichVu.cs",
+              "ToolTip": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\MoHinh3Lop\\clone6\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_DichVu.cs [Design]*",
+              "RelativeToolTip": "UserControlForm\\User_DichVu.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:20:40.2Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User_NhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\MoHinh3Lop\\clone6\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_NhanVien.cs",
+              "RelativeDocumentMoniker": "UserControlForm\\User_NhanVien.cs",
+              "ToolTip": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\MoHinh3Lop\\clone6\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_NhanVien.cs [Design]",
+              "RelativeToolTip": "UserControlForm\\User_NhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:16:46.163Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\MoHinh3Lop\\clone6\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\MoHinh3Lop\\clone6\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\FormMain.cs [Design]",
+              "RelativeToolTip": "FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:16:42.292Z",
+>>>>>>> Stashed changes
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+<<<<<<< Updated upstream
             },
             {
               "$type": "Document",
@@ -145,6 +216,8 @@
               "RelativeToolTip": "..\\..\\..\\clone2\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_NhanVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T12:03:17.231Z"
+=======
+>>>>>>> Stashed changes
             }
           ]
         }

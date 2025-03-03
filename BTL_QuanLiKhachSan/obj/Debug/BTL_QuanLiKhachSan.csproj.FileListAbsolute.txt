@@ -16,6 +16,7 @@ D:\Học kì 2 năm 3\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.csproj.Cor
 D:\Học kì 2 năm 3\BTL_QuanLiKhachSan\obj\Debug\BTL_Quan.E1AD8BC4.Up2Date
 D:\Học kì 2 năm 3\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.exe
 D:\Học kì 2 năm 3\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.pdb
+<<<<<<< Updated upstream
 D:\Học kì 2 năm 3\MoHinh3Lop\clone1\BTLQuanLiKhachSan\BTL_QuanLiKhachSan\bin\Debug\BTL_QuanLiKhachSan.exe.config
 D:\Học kì 2 năm 3\MoHinh3Lop\clone1\BTLQuanLiKhachSan\BTL_QuanLiKhachSan\bin\Debug\BTL_QuanLiKhachSan.exe
 D:\Học kì 2 năm 3\MoHinh3Lop\clone1\BTLQuanLiKhachSan\BTL_QuanLiKhachSan\bin\Debug\BTL_QuanLiKhachSan.pdb
@@ -52,3 +53,24 @@ D:\Học kì 2 năm 3\MoHinh3Lop\clone4\BTLQuanLiKhachSan\BTL_QuanLiKhachSan\obj
 D:\Học kì 2 năm 3\MoHinh3Lop\clone4\BTLQuanLiKhachSan\BTL_QuanLiKhachSan\obj\Debug\BTL_Quan.E1AD8BC4.Up2Date
 D:\Học kì 2 năm 3\MoHinh3Lop\clone4\BTLQuanLiKhachSan\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.exe
 D:\Học kì 2 năm 3\MoHinh3Lop\clone4\BTLQuanLiKhachSan\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.pdb
+=======
+D:\Học kì 2 năm 3\MoHinh3Lop\clone6\BTLQuanLiKhachSan\BTL_QuanLiKhachSan\bin\Debug\BTL_QuanLiKhachSan.exe.config
+D:\Học kì 2 năm 3\MoHinh3Lop\clone6\BTLQuanLiKhachSan\BTL_QuanLiKhachSan\bin\Debug\BTL_QuanLiKhachSan.exe
+D:\Học kì 2 năm 3\MoHinh3Lop\clone6\BTLQuanLiKhachSan\BTL_QuanLiKhachSan\bin\Debug\BTL_QuanLiKhachSan.pdb
+D:\Học kì 2 năm 3\MoHinh3Lop\clone6\BTLQuanLiKhachSan\BTL_QuanLiKhachSan\bin\Debug\Guna.UI2.dll
+D:\Học kì 2 năm 3\MoHinh3Lop\clone6\BTLQuanLiKhachSan\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.csproj.AssemblyReference.cache
+D:\Học kì 2 năm 3\MoHinh3Lop\clone6\BTLQuanLiKhachSan\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.FormMain.resources
+D:\Học kì 2 năm 3\MoHinh3Lop\clone6\BTLQuanLiKhachSan\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.Properties.Resources.resources
+D:\Học kì 2 năm 3\MoHinh3Lop\clone6\BTLQuanLiKhachSan\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.UserControlForm.User_DichVu.resources
+D:\Học kì 2 năm 3\MoHinh3Lop\clone6\BTLQuanLiKhachSan\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.UserControlForm.User_DoanhThu.resources
+D:\Học kì 2 năm 3\MoHinh3Lop\clone6\BTLQuanLiKhachSan\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.UserControlForm.User_HoaDon.resources
+D:\Học kì 2 năm 3\MoHinh3Lop\clone6\BTLQuanLiKhachSan\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.Resources.User_NhanVien.resources
+D:\Học kì 2 năm 3\MoHinh3Lop\clone6\BTLQuanLiKhachSan\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.UserControlForm.User_KhachHang.resources
+D:\Học kì 2 năm 3\MoHinh3Lop\clone6\BTLQuanLiKhachSan\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.UserControlForm.User_Phong.resources
+D:\Học kì 2 năm 3\MoHinh3Lop\clone6\BTLQuanLiKhachSan\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.csproj.GenerateResource.cache
+D:\Học kì 2 năm 3\MoHinh3Lop\clone6\BTLQuanLiKhachSan\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.csproj.CoreCompileInputs.cache
+D:\Học kì 2 năm 3\MoHinh3Lop\clone6\BTLQuanLiKhachSan\BTL_QuanLiKhachSan\obj\Debug\BTL_Quan.E1AD8BC4.Up2Date
+D:\Học kì 2 năm 3\MoHinh3Lop\clone6\BTLQuanLiKhachSan\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.exe
+D:\Học kì 2 năm 3\MoHinh3Lop\clone6\BTLQuanLiKhachSan\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.pdb
+D:\Học kì 2 năm 3\MoHinh3Lop\clone6\BTLQuanLiKhachSan\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.Form1.resources
+>>>>>>> Stashed changes

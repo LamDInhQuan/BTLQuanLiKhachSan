@@ -38,7 +38,11 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(596, 251);
             this.label1.TabIndex = 3;
+<<<<<<< Updated upstream
             this.label1.Text = "Dịch Vụ 3";
+=======
+            this.label1.Text = "Dịch Vụdfvb dfvbrfeg ";
+>>>>>>> Stashed changes
             // 
             // User_DichVu
             // 
