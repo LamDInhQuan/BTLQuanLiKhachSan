@@ -38,7 +38,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(596, 251);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Phòng";
+            this.label1.Text = "Phòng 2";
             // 
             // User_Phong
             // 

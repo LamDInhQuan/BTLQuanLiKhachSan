@@ -38,7 +38,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(596, 251);
             this.label1.TabIndex = 2;
-            this.label1.Text = "Hóa Đơn";
+            this.label1.Text = "Hóa Đơn 2";
             // 
             // User_HoaDon
             // 
