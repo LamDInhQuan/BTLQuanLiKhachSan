@@ -34,7 +34,7 @@ namespace BTL_QuanLiKhachSan
             btnNhanVien.Checked = false;
             btnKhachHang.Checked = false;
             btnHoaDon.Checked = false;
-            btnDoanhThu.Checked = false;
+            btnDangKy.Checked = false;
             guna2Button.Checked = true;
             addUserControl(userControl);
         }
@@ -77,8 +77,8 @@ namespace BTL_QuanLiKhachSan
 
         private void btnDoanhThu_Click(object sender, EventArgs e)
         {
-            User_DoanhThu formDoanhThu = new User_DoanhThu();
-            updateCheckGunaButton(btnDoanhThu, formDoanhThu);
+            User_DangKyPhong formDoanhThu = new User_DangKyPhong();
+            updateCheckGunaButton(btnDangKy, formDoanhThu);
             iconDoanhThu.BackColor = Color.LightSteelBlue;
         }
 
@@ -91,7 +91,7 @@ namespace BTL_QuanLiKhachSan
         private void btnDoanhThu_MouseLeave(object sender, EventArgs e)
         {
             iconDoanhThu.BackColor = Color.CornflowerBlue;
-            btnDoanhThu.Checked = false;
+            btnDangKy.Checked = false;
         }
 
 
@@ -222,6 +222,11 @@ namespace BTL_QuanLiKhachSan
         private void pictureBox2_MouseEnter(object sender, EventArgs e)
         {
             iconDangXuat.BackColor = Color.CornflowerBlue;
+        }
+
+        private void btnDangnhap_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

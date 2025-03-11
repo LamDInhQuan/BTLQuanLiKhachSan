@@ -37,6 +37,7 @@
       <HintPath>packages\Guna.UI2.WinForms.2.0.4.7\lib\net472\Guna.UI2.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Design" />
     <Reference Include="System.Management" />
@@ -52,6 +53,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormMain.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,11 +73,11 @@
     <Compile Include="UserControlForm\User_DichVu.Designer.cs">
       <DependentUpon>User_DichVu.cs</DependentUpon>
     </Compile>
-    <Compile Include="UserControlForm\User_DoanhThu.cs">
+    <Compile Include="UserControlForm\User_DangKyPhong.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UserControlForm\User_DoanhThu.Designer.cs">
-      <DependentUpon>User_DoanhThu.cs</DependentUpon>
+    <Compile Include="UserControlForm\User_DangKyPhong.Designer.cs">
+      <DependentUpon>User_DangKyPhong.cs</DependentUpon>
     </Compile>
     <Compile Include="UserControlForm\User_HoaDon.cs">
       <SubType>UserControl</SubType>
@@ -96,6 +103,9 @@
     <Compile Include="UserControlForm\User_Phong.Designer.cs">
       <DependentUpon>User_Phong.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormMain.resx">
       <DependentUpon>FormMain.cs</DependentUpon>
     </EmbeddedResource>
@@ -112,8 +122,8 @@
     <EmbeddedResource Include="UserControlForm\User_DichVu.resx">
       <DependentUpon>User_DichVu.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UserControlForm\User_DoanhThu.resx">
-      <DependentUpon>User_DoanhThu.cs</DependentUpon>
+    <EmbeddedResource Include="UserControlForm\User_DangKyPhong.resx">
+      <DependentUpon>User_DangKyPhong.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UserControlForm\User_HoaDon.resx">
       <DependentUpon>User_HoaDon.cs</DependentUpon>

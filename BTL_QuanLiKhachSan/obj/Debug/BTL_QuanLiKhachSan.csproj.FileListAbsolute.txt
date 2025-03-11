@@ -16,3 +16,21 @@ D:\Học kì 2 năm 3\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.csproj.Cor
 D:\Học kì 2 năm 3\BTL_QuanLiKhachSan\obj\Debug\BTL_Quan.E1AD8BC4.Up2Date
 D:\Học kì 2 năm 3\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.exe
 D:\Học kì 2 năm 3\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.pdb
+C:\Users\nguye\source\repos\BTL_QLKS\BTL_QuanLiKhachSan\bin\Debug\BTL_QuanLiKhachSan.exe.config
+C:\Users\nguye\source\repos\BTL_QLKS\BTL_QuanLiKhachSan\bin\Debug\BTL_QuanLiKhachSan.exe
+C:\Users\nguye\source\repos\BTL_QLKS\BTL_QuanLiKhachSan\bin\Debug\BTL_QuanLiKhachSan.pdb
+C:\Users\nguye\source\repos\BTL_QLKS\BTL_QuanLiKhachSan\bin\Debug\Guna.UI2.dll
+C:\Users\nguye\source\repos\BTL_QLKS\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\BTL_QLKS\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.FormMain.resources
+C:\Users\nguye\source\repos\BTL_QLKS\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.Properties.Resources.resources
+C:\Users\nguye\source\repos\BTL_QLKS\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.UserControlForm.User_DichVu.resources
+C:\Users\nguye\source\repos\BTL_QLKS\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.UserControlForm.User_HoaDon.resources
+C:\Users\nguye\source\repos\BTL_QLKS\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.Resources.User_NhanVien.resources
+C:\Users\nguye\source\repos\BTL_QLKS\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.UserControlForm.User_KhachHang.resources
+C:\Users\nguye\source\repos\BTL_QLKS\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.UserControlForm.User_Phong.resources
+C:\Users\nguye\source\repos\BTL_QLKS\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\BTL_QLKS\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\BTL_QLKS\BTL_QuanLiKhachSan\obj\Debug\BTL_Quan.E1AD8BC4.Up2Date
+C:\Users\nguye\source\repos\BTL_QLKS\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.exe
+C:\Users\nguye\source\repos\BTL_QLKS\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.pdb
+C:\Users\nguye\source\repos\BTL_QLKS\BTL_QuanLiKhachSan\obj\Debug\BTL_QuanLiKhachSan.UserControlForm.User_DangKyPhong.resources
