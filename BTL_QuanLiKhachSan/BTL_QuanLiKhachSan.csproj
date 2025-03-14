@@ -37,6 +37,7 @@
       <HintPath>packages\Guna.UI2.WinForms.2.0.4.7\lib\net472\Guna.UI2.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Design" />
     <Reference Include="System.Management" />
@@ -58,8 +59,21 @@
     <Compile Include="FormMain.Designer.cs">
       <DependentUpon>FormMain.cs</DependentUpon>
     </Compile>
+    <Compile Include="Object\NhanVien.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserControlForm\User_HoaDon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlForm\User_HoaDon.Designer.cs">
+      <DependentUpon>User_HoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlForm\User_TaoHoaDon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlForm\User_TaoHoaDon.Designer.cs">
+      <DependentUpon>User_TaoHoaDon.cs</DependentUpon>
+    </Compile>
     <Compile Include="UserControlForm\User_DichVu.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -72,11 +86,11 @@
     <Compile Include="UserControlForm\User_DoanhThu.Designer.cs">
       <DependentUpon>User_DoanhThu.cs</DependentUpon>
     </Compile>
-    <Compile Include="UserControlForm\User_HoaDon.cs">
+    <Compile Include="UserControlForm\User_QLyHoaDon.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UserControlForm\User_HoaDon.Designer.cs">
-      <DependentUpon>User_HoaDon.cs</DependentUpon>
+    <Compile Include="UserControlForm\User_QLyHoaDon.Designer.cs">
+      <DependentUpon>User_QLyHoaDon.cs</DependentUpon>
     </Compile>
     <Compile Include="UserControlForm\User_NhanVien.cs">
       <SubType>UserControl</SubType>
@@ -109,14 +123,20 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="UserControlForm\User_HoaDon.resx">
+      <DependentUpon>User_HoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlForm\User_TaoHoaDon.resx">
+      <DependentUpon>User_TaoHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UserControlForm\User_DichVu.resx">
       <DependentUpon>User_DichVu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UserControlForm\User_DoanhThu.resx">
       <DependentUpon>User_DoanhThu.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UserControlForm\User_HoaDon.resx">
-      <DependentUpon>User_HoaDon.cs</DependentUpon>
+    <EmbeddedResource Include="UserControlForm\User_QLyHoaDon.resx">
+      <DependentUpon>User_QLyHoaDon.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UserControlForm\User_NhanVien.resx">
       <DependentUpon>User_NhanVien.cs</DependentUpon>
@@ -209,6 +229,33 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\output_fixed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-938159344-1024x1024.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-938159344-1024x10241.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-abstract-blur-hotel-lobby-image_15683829.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blurred_background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blurred_image.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blurred_image1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-abstract-blur-hotel-lobby-image_156838291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blurred_bathroom_v2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-vibrant-energy-a-blue-halftone-texture-background-with-dots-gradation-pattern-image_13899246.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

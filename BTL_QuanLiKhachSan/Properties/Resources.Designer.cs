@@ -113,6 +113,46 @@ namespace BTL_QuanLiKhachSan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap blurred_background {
+            get {
+                object obj = ResourceManager.GetObject("blurred_background", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap blurred_bathroom_v2 {
+            get {
+                object obj = ResourceManager.GetObject("blurred_bathroom_v2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap blurred_image {
+            get {
+                object obj = ResourceManager.GetObject("blurred_image", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap blurred_image1 {
+            get {
+                object obj = ResourceManager.GetObject("blurred_image1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap icon_dichvu {
             get {
                 object obj = ResourceManager.GetObject("icon_dichvu", resourceCulture);
@@ -163,6 +203,26 @@ namespace BTL_QuanLiKhachSan.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap istockphoto_938159344_1024x1024 {
+            get {
+                object obj = ResourceManager.GetObject("istockphoto-938159344-1024x1024", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap istockphoto_938159344_1024x10241 {
+            get {
+                object obj = ResourceManager.GetObject("istockphoto-938159344-1024x10241", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap menu {
             get {
                 object obj = ResourceManager.GetObject("menu", resourceCulture);
@@ -186,6 +246,37 @@ namespace BTL_QuanLiKhachSan.Properties {
         internal static System.Drawing.Bitmap output_fixed {
             get {
                 object obj = ResourceManager.GetObject("output_fixed", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pngtree_abstract_blur_hotel_lobby_image_15683829 {
+            get {
+                object obj = ResourceManager.GetObject("pngtree-abstract-blur-hotel-lobby-image_15683829", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pngtree_abstract_blur_hotel_lobby_image_156838291 {
+            get {
+                object obj = ResourceManager.GetObject("pngtree-abstract-blur-hotel-lobby-image_156838291", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pngtree_vibrant_energy_a_blue_halftone_texture_background_with_dots_gradation_pattern_image_13899246 {
+            get {
+                object obj = ResourceManager.GetObject("pngtree-vibrant-energy-a-blue-halftone-texture-background-with-dots-gradation-pat" +
+                        "tern-image_13899246", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
