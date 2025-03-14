@@ -28,14 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-<<<<<<< Updated upstream
-            this.label1 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
-=======
+            this.components = new System.ComponentModel.Container();
             this.dgvKH = new System.Windows.Forms.DataGridView();
             this.btnLuu = new System.Windows.Forms.Button();
             this.btnTimkiem = new System.Windows.Forms.Button();
-            this.btnXoa = new System.Windows.Forms.Button();
             this.btnSua = new System.Windows.Forms.Button();
             this.btnThem = new System.Windows.Forms.Button();
             this.txtCMND = new System.Windows.Forms.TextBox();
@@ -53,27 +49,21 @@
             this.txtSDT = new System.Windows.Forms.TextBox();
             this.lblSodienthoai = new System.Windows.Forms.Label();
             this.gbTimkiem = new System.Windows.Forms.GroupBox();
+            this.rbtnSDT = new System.Windows.Forms.RadioButton();
+            this.rbtnCMND = new System.Windows.Forms.RadioButton();
+            this.rbtnHoten = new System.Windows.Forms.RadioButton();
             this.rbtnNam = new System.Windows.Forms.RadioButton();
             this.rbtnNu = new System.Windows.Forms.RadioButton();
-            this.rbtnHoten = new System.Windows.Forms.RadioButton();
-            this.rbtnCMND = new System.Windows.Forms.RadioButton();
-            this.rbtnSDT = new System.Windows.Forms.RadioButton();
             this.txtMaKH = new System.Windows.Forms.TextBox();
+            this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
+            this.btnHuy = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvKH)).BeginInit();
             this.gbTimkiem.SuspendLayout();
->>>>>>> Stashed changes
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
             this.SuspendLayout();
             // 
             // dgvKH
             // 
-<<<<<<< Updated upstream
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(335, 355);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(670, 314);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "Khách Hàng";
-=======
             this.dgvKH.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvKH.Location = new System.Drawing.Point(150, 600);
             this.dgvKH.Name = "dgvKH";
@@ -105,17 +95,6 @@
             this.btnTimkiem.Text = "TÌM KIẾM";
             this.btnTimkiem.UseVisualStyleBackColor = true;
             this.btnTimkiem.Click += new System.EventHandler(this.btnTimkiem_Click);
-            // 
-            // btnXoa
-            // 
-            this.btnXoa.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.btnXoa.Location = new System.Drawing.Point(700, 450);
-            this.btnXoa.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.btnXoa.Name = "btnXoa";
-            this.btnXoa.Size = new System.Drawing.Size(150, 77);
-            this.btnXoa.TabIndex = 18;
-            this.btnXoa.Text = "XÓA";
-            this.btnXoa.UseVisualStyleBackColor = true;
             // 
             // btnSua
             // 
@@ -287,6 +266,42 @@
             this.gbTimkiem.TabStop = false;
             this.gbTimkiem.Text = "TÌM KIẾM";
             // 
+            // rbtnSDT
+            // 
+            this.rbtnSDT.AutoSize = true;
+            this.rbtnSDT.Location = new System.Drawing.Point(10, 150);
+            this.rbtnSDT.Name = "rbtnSDT";
+            this.rbtnSDT.Size = new System.Drawing.Size(127, 24);
+            this.rbtnSDT.TabIndex = 2;
+            this.rbtnSDT.TabStop = true;
+            this.rbtnSDT.Text = "Số điện thoại";
+            this.rbtnSDT.UseVisualStyleBackColor = true;
+            this.rbtnSDT.CheckedChanged += new System.EventHandler(this.rbtnSDT_CheckedChanged);
+            // 
+            // rbtnCMND
+            // 
+            this.rbtnCMND.AutoSize = true;
+            this.rbtnCMND.Location = new System.Drawing.Point(10, 100);
+            this.rbtnCMND.Name = "rbtnCMND";
+            this.rbtnCMND.Size = new System.Drawing.Size(81, 24);
+            this.rbtnCMND.TabIndex = 1;
+            this.rbtnCMND.TabStop = true;
+            this.rbtnCMND.Text = "CMND";
+            this.rbtnCMND.UseVisualStyleBackColor = true;
+            this.rbtnCMND.CheckedChanged += new System.EventHandler(this.rbtnCMND_CheckedChanged);
+            // 
+            // rbtnHoten
+            // 
+            this.rbtnHoten.AutoSize = true;
+            this.rbtnHoten.Location = new System.Drawing.Point(10, 50);
+            this.rbtnHoten.Name = "rbtnHoten";
+            this.rbtnHoten.Size = new System.Drawing.Size(82, 24);
+            this.rbtnHoten.TabIndex = 0;
+            this.rbtnHoten.TabStop = true;
+            this.rbtnHoten.Text = "Họ tên";
+            this.rbtnHoten.UseVisualStyleBackColor = true;
+            this.rbtnHoten.CheckedChanged += new System.EventHandler(this.rbtnHoten_CheckedChanged);
+            // 
             // rbtnNam
             // 
             this.rbtnNam.AutoSize = true;
@@ -309,71 +324,34 @@
             this.rbtnNu.Text = "Nữ";
             this.rbtnNu.UseVisualStyleBackColor = true;
             // 
-            // rbtnHoten
-            // 
-            this.rbtnHoten.AutoSize = true;
-            this.rbtnHoten.Location = new System.Drawing.Point(10, 50);
-            this.rbtnHoten.Name = "rbtnHoten";
-            this.rbtnHoten.Size = new System.Drawing.Size(82, 24);
-            this.rbtnHoten.TabIndex = 0;
-            this.rbtnHoten.TabStop = true;
-            this.rbtnHoten.Text = "Họ tên";
-            this.rbtnHoten.UseVisualStyleBackColor = true;
-            this.rbtnHoten.CheckedChanged += new System.EventHandler(this.rbtnHoten_CheckedChanged);
-            // 
-            // rbtnCMND
-            // 
-            this.rbtnCMND.AutoSize = true;
-            this.rbtnCMND.Location = new System.Drawing.Point(10, 100);
-            this.rbtnCMND.Name = "rbtnCMND";
-            this.rbtnCMND.Size = new System.Drawing.Size(81, 24);
-            this.rbtnCMND.TabIndex = 1;
-            this.rbtnCMND.TabStop = true;
-            this.rbtnCMND.Text = "CMND";
-            this.rbtnCMND.UseVisualStyleBackColor = true;
-            this.rbtnCMND.CheckedChanged += new System.EventHandler(this.rbtnCMND_CheckedChanged);
-            // 
-            // rbtnSDT
-            // 
-            this.rbtnSDT.AutoSize = true;
-            this.rbtnSDT.Location = new System.Drawing.Point(10, 150);
-            this.rbtnSDT.Name = "rbtnSDT";
-            this.rbtnSDT.Size = new System.Drawing.Size(127, 24);
-            this.rbtnSDT.TabIndex = 2;
-            this.rbtnSDT.TabStop = true;
-            this.rbtnSDT.Text = "Số điện thoại";
-            this.rbtnSDT.UseVisualStyleBackColor = true;
-            this.rbtnSDT.CheckedChanged += new System.EventHandler(this.rbtnSDT_CheckedChanged);
-            // 
             // txtMaKH
             // 
             this.txtMaKH.Location = new System.Drawing.Point(899, 25);
             this.txtMaKH.Name = "txtMaKH";
             this.txtMaKH.Size = new System.Drawing.Size(100, 26);
             this.txtMaKH.TabIndex = 43;
->>>>>>> Stashed changes
             // 
-            // button1
+            // errorProvider1
             // 
-            this.button1.Location = new System.Drawing.Point(514, 249);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 2;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.errorProvider1.ContainerControl = this;
+            // 
+            // btnHuy
+            // 
+            this.btnHuy.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.btnHuy.Location = new System.Drawing.Point(700, 450);
+            this.btnHuy.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnHuy.Name = "btnHuy";
+            this.btnHuy.Size = new System.Drawing.Size(150, 77);
+            this.btnHuy.TabIndex = 44;
+            this.btnHuy.Text = "HỦY";
+            this.btnHuy.UseVisualStyleBackColor = true;
+            this.btnHuy.Click += new System.EventHandler(this.btnHuy_Click);
             // 
             // User_KhachHang
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-<<<<<<< Updated upstream
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.Name = "User_KhachHang";
-            this.Size = new System.Drawing.Size(1342, 1022);
-=======
+            this.Controls.Add(this.btnHuy);
             this.Controls.Add(this.txtMaKH);
             this.Controls.Add(this.rbtnNu);
             this.Controls.Add(this.rbtnNam);
@@ -394,7 +372,6 @@
             this.Controls.Add(this.lblHoten);
             this.Controls.Add(this.btnLuu);
             this.Controls.Add(this.btnTimkiem);
-            this.Controls.Add(this.btnXoa);
             this.Controls.Add(this.btnSua);
             this.Controls.Add(this.btnThem);
             this.Controls.Add(this.dgvKH);
@@ -405,7 +382,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.dgvKH)).EndInit();
             this.gbTimkiem.ResumeLayout(false);
             this.gbTimkiem.PerformLayout();
->>>>>>> Stashed changes
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -413,14 +390,9 @@
 
         #endregion
 
-<<<<<<< Updated upstream
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button button1;
-=======
         private System.Windows.Forms.DataGridView dgvKH;
         private System.Windows.Forms.Button btnLuu;
         private System.Windows.Forms.Button btnTimkiem;
-        private System.Windows.Forms.Button btnXoa;
         private System.Windows.Forms.Button btnSua;
         private System.Windows.Forms.Button btnThem;
         private System.Windows.Forms.TextBox txtCMND;
@@ -444,6 +416,7 @@
         private System.Windows.Forms.RadioButton rbtnSDT;
         private System.Windows.Forms.RadioButton rbtnCMND;
         private System.Windows.Forms.TextBox txtMaKH;
->>>>>>> Stashed changes
+        private System.Windows.Forms.ErrorProvider errorProvider1;
+        private System.Windows.Forms.Button btnHuy;
     }
 }
