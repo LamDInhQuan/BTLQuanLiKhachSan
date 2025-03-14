@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|d:\\h\u1ECDc k\u00EC 2 n\u0103m 3\\btlquanlikhachsan\\btl_quanlikhachsan\\usercontrolform\\user_qlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|solutionrelative:usercontrolform\\user_qlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|d:\\h\u1ECDc k\u00EC 2 n\u0103m 3\\btlquanlikhachsan\\btl_quanlikhachsan\\usercontrolform\\user_qlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|solutionrelative:usercontrolform\\user_qlyhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|d:\\h\u1ECDc k\u00EC 2 n\u0103m 3\\btlquanlikhachsan\\btl_quanlikhachsan\\usercontrolform\\user_taohoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|solutionrelative:usercontrolform\\user_taohoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\usercontrolform\\user_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|solutionrelative:usercontrolform\\user_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|d:\\h\u1ECDc k\u00EC 2 n\u0103m 3\\btlquanlikhachsan\\btl_quanlikhachsan\\usercontrolform\\user_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|solutionrelative:usercontrolform\\user_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|d:\\h\u1ECDc k\u00EC 2 n\u0103m 3\\btlquanlikhachsan\\btl_quanlikhachsan\\usercontrolform\\user_taohoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|solutionrelative:usercontrolform\\user_taohoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|d:\\h\u1ECDc k\u00EC 2 n\u0103m 3\\btlquanlikhachsan\\btl_quanlikhachsan\\usercontrolform\\user_taohoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|solutionrelative:usercontrolform\\user_taohoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|d:\\h\u1ECDc k\u00EC 2 n\u0103m 3\\btlquanlikhachsan\\btl_quanlikhachsan\\usercontrolform\\user_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|solutionrelative:usercontrolform\\user_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|d:\\h\u1ECDc k\u00EC 2 n\u0103m 3\\btlquanlikhachsan\\btl_quanlikhachsan\\usercontrolform\\user_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|solutionrelative:usercontrolform\\user_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|d:\\h\u1ECDc k\u00EC 2 n\u0103m 3\\btlquanlikhachsan\\btl_quanlikhachsan\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|d:\\h\u1ECDc k\u00EC 2 n\u0103m 3\\btlquanlikhachsan\\btl_quanlikhachsan\\usercontrolform\\user_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|solutionrelative:usercontrolform\\user_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\usercontrolform\\user_phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53A2DB4D-B878-49F5-9D20-9DE203E354F4}|BTL_QuanLiKhachSan.csproj|solutionrelative:usercontrolform\\user_phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User_Phong.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_Phong.cs",
+              "RelativeDocumentMoniker": "UserControlForm\\User_Phong.cs",
+              "ToolTip": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_Phong.cs [Design]",
+              "RelativeToolTip": "UserControlForm\\User_Phong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:13:11.805Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User_QLyHoaDon.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_QLyHoaDon.cs",
+              "RelativeDocumentMoniker": "UserControlForm\\User_QLyHoaDon.cs",
+              "ToolTip": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_QLyHoaDon.cs*",
+              "RelativeToolTip": "UserControlForm\\User_QLyHoaDon.cs*",
+              "ViewState": "AgIAADAAAAAAAAAAAAAwwDkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:30:15.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User_TaoHoaDon.Designer.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_TaoHoaDon.Designer.cs",
+              "RelativeDocumentMoniker": "UserControlForm\\User_TaoHoaDon.Designer.cs",
+              "ToolTip": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_TaoHoaDon.Designer.cs",
+              "RelativeToolTip": "UserControlForm\\User_TaoHoaDon.Designer.cs",
+              "ViewState": "AgIAAFcCAAAAAAAAAAAIwGgCAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:58:22.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User_QLyHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_QLyHoaDon.cs",
+              "RelativeDocumentMoniker": "UserControlForm\\User_QLyHoaDon.cs",
+              "ToolTip": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_QLyHoaDon.cs [Design]*",
+              "RelativeToolTip": "UserControlForm\\User_QLyHoaDon.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T10:39:23.425Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User_TaoHoaDon.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_TaoHoaDon.cs",
+              "RelativeDocumentMoniker": "UserControlForm\\User_TaoHoaDon.cs",
+              "ToolTip": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_TaoHoaDon.cs",
+              "RelativeToolTip": "UserControlForm\\User_TaoHoaDon.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAADwv6oAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:19:19.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User_KhachHang.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_KhachHang.cs",
+              "RelativeDocumentMoniker": "UserControlForm\\User_KhachHang.cs",
+              "ToolTip": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_KhachHang.cs",
+              "RelativeToolTip": "UserControlForm\\User_KhachHang.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:40:26.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User_HoaDon.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_HoaDon.cs",
+              "RelativeDocumentMoniker": "UserControlForm\\User_HoaDon.cs",
+              "ToolTip": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_HoaDon.cs",
+              "RelativeToolTip": "UserControlForm\\User_HoaDon.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:26:58.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\FormMain.cs",
+              "RelativeToolTip": "FormMain.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAADwv0MAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:26:30.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User_HoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_HoaDon.cs",
+              "RelativeDocumentMoniker": "UserControlForm\\User_HoaDon.cs",
+              "ToolTip": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_HoaDon.cs [Design]",
+              "RelativeToolTip": "UserControlForm\\User_HoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:25:37.177Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User_TaoHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_TaoHoaDon.cs",
+              "RelativeDocumentMoniker": "UserControlForm\\User_TaoHoaDon.cs",
+              "ToolTip": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_TaoHoaDon.cs [Design]",
+              "RelativeToolTip": "UserControlForm\\User_TaoHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:24:29.698Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User_NhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_NhanVien.cs",
+              "RelativeDocumentMoniker": "UserControlForm\\User_NhanVien.cs",
+              "ToolTip": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_NhanVien.cs [Design]",
+              "RelativeToolTip": "UserControlForm\\User_NhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:00:37.719Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User_NhanVien.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_NhanVien.cs",
+              "RelativeDocumentMoniker": "UserControlForm\\User_NhanVien.cs",
+              "ToolTip": "D:\\H\u1ECDc k\u00EC 2 n\u0103m 3\\BTLQuanLiKhachSan\\BTL_QuanLiKhachSan\\UserControlForm\\User_NhanVien.cs",
+              "RelativeToolTip": "UserControlForm\\User_NhanVien.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAtwOcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:00:39.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

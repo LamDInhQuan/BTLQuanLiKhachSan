@@ -69,10 +69,16 @@ namespace BTL_QuanLiKhachSan
 
         private void btnHoaDon_Click(object sender, EventArgs e)
         {
-            User_HoaDon formHoaDon = new User_HoaDon();
+            User_HoaDon formHoaDon = new User_HoaDon(this);
             updateCheckGunaButton(btnHoaDon, formHoaDon);
             iconHoaDon.BackColor = Color.LightSteelBlue;
+            User_HoaDon userHoaDon = new User_HoaDon(this);
 
+        }
+
+        public Panel getUserFormPanel()
+        {
+            return FormUserControl; 
         }
 
         private void btnDoanhThu_Click(object sender, EventArgs e)

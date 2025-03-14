@@ -28,23 +28,36 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // label1
+            // button1
             // 
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(298, 284);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(596, 251);
-            this.label1.TabIndex = 2;
-            this.label1.Text = "Hóa Đơn";
+            this.button1.Location = new System.Drawing.Point(234, 133);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(107, 127);
+            this.button1.TabIndex = 0;
+            this.button1.Text = "Tạo Hóa Đơn ";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(543, 133);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(238, 127);
+            this.button2.TabIndex = 1;
+            this.button2.Text = "Quản Lí Hóa Đơn ";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // User_HoaDon
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.button1);
             this.Name = "User_HoaDon";
             this.Size = new System.Drawing.Size(1193, 818);
             this.ResumeLayout(false);
@@ -53,6 +66,7 @@
 
         #endregion
 
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
     }
 }

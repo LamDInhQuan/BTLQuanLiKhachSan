@@ -39,6 +39,7 @@
             this.label1.Size = new System.Drawing.Size(596, 251);
             this.label1.TabIndex = 1;
             this.label1.Text = "Khách Hàng";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // User_KhachHang
             // 

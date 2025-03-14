@@ -29,7 +29,15 @@
         private void InitializeComponent()
         {
             this.panelMenu = new System.Windows.Forms.Panel();
+            this.iconDangXuat = new System.Windows.Forms.PictureBox();
+            this.pictureBox8 = new System.Windows.Forms.PictureBox();
+            this.iconDoanhThu = new System.Windows.Forms.PictureBox();
+            this.iconHoaDon = new System.Windows.Forms.PictureBox();
+            this.iconKhachHang = new System.Windows.Forms.PictureBox();
+            this.iconNhanVien = new System.Windows.Forms.PictureBox();
+            this.iconPhong = new System.Windows.Forms.PictureBox();
             this.btnDangXuat = new Guna.UI2.WinForms.Guna2Button();
+            this.iconDichVu = new System.Windows.Forms.PictureBox();
             this.btnHoaDon = new Guna.UI2.WinForms.Guna2Button();
             this.btnDoanhThu = new Guna.UI2.WinForms.Guna2Button();
             this.btnKhachHang = new Guna.UI2.WinForms.Guna2Button();
@@ -39,16 +47,8 @@
             this.btnMenu = new Guna.UI2.WinForms.Guna2Button();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            this.FormUserControl = new System.Windows.Forms.Panel();
-            this.iconDangXuat = new System.Windows.Forms.PictureBox();
-            this.pictureBox8 = new System.Windows.Forms.PictureBox();
-            this.iconDoanhThu = new System.Windows.Forms.PictureBox();
-            this.iconHoaDon = new System.Windows.Forms.PictureBox();
-            this.iconKhachHang = new System.Windows.Forms.PictureBox();
-            this.iconNhanVien = new System.Windows.Forms.PictureBox();
-            this.iconPhong = new System.Windows.Forms.PictureBox();
-            this.iconDichVu = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.FormUserControl = new System.Windows.Forms.Panel();
             this.panelMenu.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.iconDangXuat)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
@@ -86,8 +86,92 @@
             this.panelMenu.Dock = System.Windows.Forms.DockStyle.Left;
             this.panelMenu.Location = new System.Drawing.Point(0, 0);
             this.panelMenu.Name = "panelMenu";
-            this.panelMenu.Size = new System.Drawing.Size(268, 818);
+            this.panelMenu.Size = new System.Drawing.Size(264, 818);
             this.panelMenu.TabIndex = 0;
+            // 
+            // iconDangXuat
+            // 
+            this.iconDangXuat.BackColor = System.Drawing.Color.CornflowerBlue;
+            this.iconDangXuat.Image = global::BTL_QuanLiKhachSan.Properties.Resources.output_fixed;
+            this.iconDangXuat.Location = new System.Drawing.Point(49, 775);
+            this.iconDangXuat.Name = "iconDangXuat";
+            this.iconDangXuat.Size = new System.Drawing.Size(35, 31);
+            this.iconDangXuat.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.iconDangXuat.TabIndex = 18;
+            this.iconDangXuat.TabStop = false;
+            this.iconDangXuat.MouseEnter += new System.EventHandler(this.pictureBox2_MouseEnter);
+            // 
+            // pictureBox8
+            // 
+            this.pictureBox8.BackColor = System.Drawing.Color.CornflowerBlue;
+            this.pictureBox8.Image = global::BTL_QuanLiKhachSan.Properties.Resources.menu;
+            this.pictureBox8.Location = new System.Drawing.Point(3, 265);
+            this.pictureBox8.Name = "pictureBox8";
+            this.pictureBox8.Size = new System.Drawing.Size(59, 58);
+            this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox8.TabIndex = 17;
+            this.pictureBox8.TabStop = false;
+            // 
+            // iconDoanhThu
+            // 
+            this.iconDoanhThu.BackColor = System.Drawing.Color.CornflowerBlue;
+            this.iconDoanhThu.Image = global::BTL_QuanLiKhachSan.Properties.Resources.processed_icon2;
+            this.iconDoanhThu.Location = new System.Drawing.Point(28, 636);
+            this.iconDoanhThu.Name = "iconDoanhThu";
+            this.iconDoanhThu.Size = new System.Drawing.Size(56, 56);
+            this.iconDoanhThu.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.iconDoanhThu.TabIndex = 16;
+            this.iconDoanhThu.TabStop = false;
+            this.iconDoanhThu.MouseEnter += new System.EventHandler(this.iconDoanhThu_MouseEnter);
+            // 
+            // iconHoaDon
+            // 
+            this.iconHoaDon.BackColor = System.Drawing.Color.CornflowerBlue;
+            this.iconHoaDon.Image = global::BTL_QuanLiKhachSan.Properties.Resources.processed_icon_2;
+            this.iconHoaDon.Location = new System.Drawing.Point(34, 574);
+            this.iconHoaDon.Name = "iconHoaDon";
+            this.iconHoaDon.Size = new System.Drawing.Size(50, 56);
+            this.iconHoaDon.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.iconHoaDon.TabIndex = 15;
+            this.iconHoaDon.TabStop = false;
+            this.iconHoaDon.MouseEnter += new System.EventHandler(this.iconHoaDon_MouseEnter);
+            // 
+            // iconKhachHang
+            // 
+            this.iconKhachHang.BackColor = System.Drawing.Color.CornflowerBlue;
+            this.iconKhachHang.Image = global::BTL_QuanLiKhachSan.Properties.Resources.review_icon_white1;
+            this.iconKhachHang.Location = new System.Drawing.Point(37, 512);
+            this.iconKhachHang.Name = "iconKhachHang";
+            this.iconKhachHang.Size = new System.Drawing.Size(47, 56);
+            this.iconKhachHang.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.iconKhachHang.TabIndex = 14;
+            this.iconKhachHang.TabStop = false;
+            this.iconKhachHang.MouseEnter += new System.EventHandler(this.iconKhachHang_MouseEnter);
+            // 
+            // iconNhanVien
+            // 
+            this.iconNhanVien.BackColor = System.Drawing.Color.CornflowerBlue;
+            this.iconNhanVien.Image = global::BTL_QuanLiKhachSan.Properties.Resources.reception_icon_white1;
+            this.iconNhanVien.Location = new System.Drawing.Point(33, 450);
+            this.iconNhanVien.Name = "iconNhanVien";
+            this.iconNhanVien.Size = new System.Drawing.Size(50, 56);
+            this.iconNhanVien.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.iconNhanVien.TabIndex = 13;
+            this.iconNhanVien.TabStop = false;
+            this.iconNhanVien.MouseEnter += new System.EventHandler(this.iconNhanVien_MouseEnter);
+            // 
+            // iconPhong
+            // 
+            this.iconPhong.BackColor = System.Drawing.Color.Transparent;
+            this.iconPhong.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.iconPhong.Image = global::BTL_QuanLiKhachSan.Properties.Resources.bed_icon_white2;
+            this.iconPhong.Location = new System.Drawing.Point(33, 325);
+            this.iconPhong.Name = "iconPhong";
+            this.iconPhong.Size = new System.Drawing.Size(59, 56);
+            this.iconPhong.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.iconPhong.TabIndex = 12;
+            this.iconPhong.TabStop = false;
+            this.iconPhong.MouseEnter += new System.EventHandler(this.iconPhong_MouseEnter);
             // 
             // btnDangXuat
             // 
@@ -108,6 +192,18 @@
             this.btnDangXuat.Click += new System.EventHandler(this.btnDangXuat_Click);
             this.btnDangXuat.MouseEnter += new System.EventHandler(this.btnDangXuat_MouseEnter);
             this.btnDangXuat.MouseLeave += new System.EventHandler(this.btnDangXuat_MouseLeave);
+            // 
+            // iconDichVu
+            // 
+            this.iconDichVu.BackColor = System.Drawing.Color.CornflowerBlue;
+            this.iconDichVu.Image = global::BTL_QuanLiKhachSan.Properties.Resources.icon_dichvu_white;
+            this.iconDichVu.Location = new System.Drawing.Point(33, 387);
+            this.iconDichVu.Name = "iconDichVu";
+            this.iconDichVu.Size = new System.Drawing.Size(51, 56);
+            this.iconDichVu.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.iconDichVu.TabIndex = 10;
+            this.iconDichVu.TabStop = false;
+            this.iconDichVu.MouseEnter += new System.EventHandler(this.iconDichVu_MouseEnter);
             // 
             // btnHoaDon
             // 
@@ -280,110 +376,6 @@
             this.label1.TabIndex = 1;
             this.label1.Text = "HOTEL 5 STARS";
             // 
-            // FormUserControl
-            // 
-            this.FormUserControl.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.FormUserControl.Location = new System.Drawing.Point(268, 0);
-            this.FormUserControl.Name = "FormUserControl";
-            this.FormUserControl.Size = new System.Drawing.Size(1193, 818);
-            this.FormUserControl.TabIndex = 1;
-            // 
-            // iconDangXuat
-            // 
-            this.iconDangXuat.BackColor = System.Drawing.Color.CornflowerBlue;
-            this.iconDangXuat.Image = global::BTL_QuanLiKhachSan.Properties.Resources.output_fixed;
-            this.iconDangXuat.Location = new System.Drawing.Point(49, 775);
-            this.iconDangXuat.Name = "iconDangXuat";
-            this.iconDangXuat.Size = new System.Drawing.Size(35, 31);
-            this.iconDangXuat.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.iconDangXuat.TabIndex = 18;
-            this.iconDangXuat.TabStop = false;
-            this.iconDangXuat.MouseEnter += new System.EventHandler(this.pictureBox2_MouseEnter);
-            // 
-            // pictureBox8
-            // 
-            this.pictureBox8.BackColor = System.Drawing.Color.CornflowerBlue;
-            this.pictureBox8.Image = global::BTL_QuanLiKhachSan.Properties.Resources.menu;
-            this.pictureBox8.Location = new System.Drawing.Point(3, 265);
-            this.pictureBox8.Name = "pictureBox8";
-            this.pictureBox8.Size = new System.Drawing.Size(59, 58);
-            this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox8.TabIndex = 17;
-            this.pictureBox8.TabStop = false;
-            // 
-            // iconDoanhThu
-            // 
-            this.iconDoanhThu.BackColor = System.Drawing.Color.CornflowerBlue;
-            this.iconDoanhThu.Image = global::BTL_QuanLiKhachSan.Properties.Resources.processed_icon2;
-            this.iconDoanhThu.Location = new System.Drawing.Point(28, 636);
-            this.iconDoanhThu.Name = "iconDoanhThu";
-            this.iconDoanhThu.Size = new System.Drawing.Size(56, 56);
-            this.iconDoanhThu.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.iconDoanhThu.TabIndex = 16;
-            this.iconDoanhThu.TabStop = false;
-            this.iconDoanhThu.MouseEnter += new System.EventHandler(this.iconDoanhThu_MouseEnter);
-            // 
-            // iconHoaDon
-            // 
-            this.iconHoaDon.BackColor = System.Drawing.Color.CornflowerBlue;
-            this.iconHoaDon.Image = global::BTL_QuanLiKhachSan.Properties.Resources.processed_icon_2;
-            this.iconHoaDon.Location = new System.Drawing.Point(34, 574);
-            this.iconHoaDon.Name = "iconHoaDon";
-            this.iconHoaDon.Size = new System.Drawing.Size(50, 56);
-            this.iconHoaDon.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.iconHoaDon.TabIndex = 15;
-            this.iconHoaDon.TabStop = false;
-            this.iconHoaDon.MouseEnter += new System.EventHandler(this.iconHoaDon_MouseEnter);
-            // 
-            // iconKhachHang
-            // 
-            this.iconKhachHang.BackColor = System.Drawing.Color.CornflowerBlue;
-            this.iconKhachHang.Image = global::BTL_QuanLiKhachSan.Properties.Resources.review_icon_white1;
-            this.iconKhachHang.Location = new System.Drawing.Point(37, 512);
-            this.iconKhachHang.Name = "iconKhachHang";
-            this.iconKhachHang.Size = new System.Drawing.Size(47, 56);
-            this.iconKhachHang.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.iconKhachHang.TabIndex = 14;
-            this.iconKhachHang.TabStop = false;
-            this.iconKhachHang.MouseEnter += new System.EventHandler(this.iconKhachHang_MouseEnter);
-            // 
-            // iconNhanVien
-            // 
-            this.iconNhanVien.BackColor = System.Drawing.Color.CornflowerBlue;
-            this.iconNhanVien.Image = global::BTL_QuanLiKhachSan.Properties.Resources.reception_icon_white1;
-            this.iconNhanVien.Location = new System.Drawing.Point(33, 450);
-            this.iconNhanVien.Name = "iconNhanVien";
-            this.iconNhanVien.Size = new System.Drawing.Size(50, 56);
-            this.iconNhanVien.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.iconNhanVien.TabIndex = 13;
-            this.iconNhanVien.TabStop = false;
-            this.iconNhanVien.MouseEnter += new System.EventHandler(this.iconNhanVien_MouseEnter);
-            // 
-            // iconPhong
-            // 
-            this.iconPhong.BackColor = System.Drawing.Color.Transparent;
-            this.iconPhong.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.iconPhong.Image = global::BTL_QuanLiKhachSan.Properties.Resources.bed_icon_white2;
-            this.iconPhong.Location = new System.Drawing.Point(33, 325);
-            this.iconPhong.Name = "iconPhong";
-            this.iconPhong.Size = new System.Drawing.Size(59, 56);
-            this.iconPhong.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.iconPhong.TabIndex = 12;
-            this.iconPhong.TabStop = false;
-            this.iconPhong.MouseEnter += new System.EventHandler(this.iconPhong_MouseEnter);
-            // 
-            // iconDichVu
-            // 
-            this.iconDichVu.BackColor = System.Drawing.Color.CornflowerBlue;
-            this.iconDichVu.Image = global::BTL_QuanLiKhachSan.Properties.Resources.icon_dichvu_white;
-            this.iconDichVu.Location = new System.Drawing.Point(33, 387);
-            this.iconDichVu.Name = "iconDichVu";
-            this.iconDichVu.Size = new System.Drawing.Size(51, 56);
-            this.iconDichVu.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.iconDichVu.TabIndex = 10;
-            this.iconDichVu.TabStop = false;
-            this.iconDichVu.MouseEnter += new System.EventHandler(this.iconDichVu_MouseEnter);
-            // 
             // pictureBox1
             // 
             this.pictureBox1.Image = global::BTL_QuanLiKhachSan.Properties.Resources.icon_removebg_preview;
@@ -393,6 +385,14 @@
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
+            // 
+            // FormUserControl
+            // 
+            this.FormUserControl.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.FormUserControl.Location = new System.Drawing.Point(264, 0);
+            this.FormUserControl.Name = "FormUserControl";
+            this.FormUserControl.Size = new System.Drawing.Size(1197, 818);
+            this.FormUserControl.TabIndex = 1;
             // 
             // FormMain
             // 
